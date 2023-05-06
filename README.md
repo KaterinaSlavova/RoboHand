@@ -3,11 +3,12 @@ This project involves building and programming a robotic arm that can perform a 
 
 ### Components:
  
-x3 Servo motors  
-Esp32  
-Wires  
-Power supply (9V battery)  
-Joystick  
+x3 Servo motors
+ir receiver
+Wires
+Power supply (9V battery)
+remote
+
 
 ### Credits:
 
